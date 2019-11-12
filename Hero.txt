@@ -1,0 +1,8 @@
+Pick a Superhero from the following list that you want to play as!  
+T: Tanjiro(T)
+B: Barack Obama(B)
+D: Dhruv(D)
+P: Phoebe(P)
+A: Aadhya(A)
+Z: Zenitsu(Z)
+Enter either T, B, D, P, A, or Z:
